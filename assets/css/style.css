@@ -1,0 +1,63 @@
+	body{
+		font-family: Arial;
+		background-color: white;
+	}
+	ul a{
+		font-size: 40px;
+		border-radius: 5px;
+		border-color: white;
+		}
+	.bacaselengkapnya{
+		color: blue;
+		font-size: 20px;
+		margin-top: -20px;
+	}
+	.judul{
+		font-size: 40px;
+		margin-top: -7px;
+		color: ;
+	}
+	.tab1{
+		margin-top: 50px;
+		border-radius: 5px;
+	}
+	.cari{
+		height: 35px;
+		top: -5px;
+	}
+	.search{
+		width: 400px;
+		height: 30px;
+		font-size: 20px;
+		top: -20px;
+		border-radius: 8px;
+		color: white;
+		background-color:white;
+		text-align: center;
+		margin-top: 60px;
+	}
+	.a1{
+		border:3px solid;
+		color: black;
+		background-color: orange;
+	}
+	.a2{
+		border:3px solid;
+		color: black;
+		background-color: orange;
+	}
+	.a3{
+		border:3px solid;
+		color: black;
+		background-color: orange;
+	}
+	.a4{
+		border:3px solid;
+		color: black;
+		background-color: orange;
+	}
+	.a5{
+		border:3px solid;
+		color: black;
+		background-color: orange;
+	}
